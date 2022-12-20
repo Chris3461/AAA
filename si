@@ -9,3 +9,6 @@ http://mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/9474.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="TV PELIS" ,CINECANAL
 http://mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/46108.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURAL" ,ANIMAL PLANET
+http://mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/79447.ts
