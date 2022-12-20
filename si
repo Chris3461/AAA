@@ -1,5 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/800px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes" ,DirecTV Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/800px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes" ,DTV Sports
 http://mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/9462.ts
