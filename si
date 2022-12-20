@@ -3,3 +3,6 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/800px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes" ,DIRECTV SPORTS
 http://mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/9462.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="PERU" ,LATINA
+mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/9473.ts
