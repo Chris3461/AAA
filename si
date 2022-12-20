@@ -6,3 +6,6 @@ http://mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/9462.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="PERU" ,LATINA
 http://mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/9474.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="TV PELIS" ,CINECANAL
+http://mael-tv.online:8080/6snpwrSyvH/rvczMRNVEz/46108.ts
