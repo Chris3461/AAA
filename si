@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/800px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes" ,DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/800px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES" ,DIRECTV SPORTS
 http://castlempire.site:8080/ChristianBu1212/LtTHdTs22Pye/170111
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="PERU" ,LATINA
@@ -15,3 +15,9 @@ http://castlempire.site:8080/ChristianBu1212/LtTHdTs22Pye/56340
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURAL" ,ANIMAL PLANET
 http://castlempire.site:8080/ChristianBu1212/LtTHdTs22Pye/56337
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhTgZ25OhiQq_tmZQ8v43eeEH9HN2OemrhoIGvzsauwFXcGrMPvhTzFPiQI044NS_q07rnwEA7Hwpzb3CA-HY_vUvB7VqYm8QckbxLbHTiIQ8yscZjnhz1f4LhFy-NcG4Meu6u0b1Q2xqfEO62pIwN8JXsoumQDnKflDmdqNcKVdZqtHAFShTaic2oy=w945-h600-p-k-no-nu" group-title="ESPECIALES" ,EVENTO DEL DIA
+http://castlempire.site:8080/ChristianBu1212/LtTHdTs22Pye/240537
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest?cb=20210507224924&path-prefix=es" group-title="DEPORTES" ,GOLPERU
+http://castlempire.site:8080/ChristianBu1212/LtTHdTs22Pye/240544
